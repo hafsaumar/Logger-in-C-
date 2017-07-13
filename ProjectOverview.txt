@@ -1,0 +1,34 @@
+========================================================================
+    CONSOLE APPLICATION : Logger_Assignment Project Overview
+========================================================================
+
+
+This file contains a summary of what you will find in each of the files that
+make up your Logger_Assignment application.
+
+Logger.h
+	This is the main header file of the Logger Class. It contains all the function prototypes and member variables defined in it. All the necessary functions and data members are commented in the file for more clarification.
+
+Logger.cpp
+	This is the cpp file for the Logger header file which contains definition of all the functions of Logger class.
+
+Logger_Main.cpp
+    This is the main application source file.
+
+Logger_Assignment.vcxproj
+    This is the main project file for VC++ projects generated using an Application Wizard. It contains information about the version of Visual C++ that generated the file, and
+    information about the platforms, configurations, and project features selected with the Application Wizard.
+
+Logger_Assignment.vcxproj.filters
+    This is the filters file for VC++ projects generated using an Application Wizard. It contains information about the association between the files in your project and the filters. This association is used in the IDE to show grouping of files with similar extensions under a specific node (for e.g. ".cpp" files are associated with the
+    "Source Files" filter).
+
+Instructions for Execution:
+Logger_Main.Cpp file is the file that has the example test code for the Logger Header file. It already contains Header file included into it, otherwise for every main program logger.h should be included with it for use.
+By running this main file, you can also see the console output for all the logging that has been done in this file as well as the file will also be created for the logs that has been done as part of file logging.
+for using the Logger, the header file must be included into the application. Then simple use the logger after reading the documentation.txt to understand how it works. (for example code see Logger_Main.cpp)
+
+
+
+
+
